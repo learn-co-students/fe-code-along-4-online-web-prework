@@ -72,7 +72,9 @@ figcaption {
 }
 /*/////////LAYOUT/////////*/
 
-*
+*{
+  -webkit-box-sizing: border-box;
+}
 
 .wrapper {
   width: 960px;
