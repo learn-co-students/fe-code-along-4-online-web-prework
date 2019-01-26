@@ -104,6 +104,7 @@ figcaption {
 .first {
   margin-left: 0;
 }
+/* LAYOUT END */
 
 /*CLEARFIX*/
 .clearfix:after {
@@ -112,4 +113,11 @@ figcaption {
   visibility: hidden;
   height: 0;
   line-height: 0;
+}
+
+/*CLEARFIX END*/
+
+/*MEDIA*/
+img, video, audio {
+  max-width: 100%;
 }
