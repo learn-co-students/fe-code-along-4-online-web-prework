@@ -27,7 +27,7 @@ figcaption {
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif;*/
   font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
-  color: #777;
+  color: #000;
   text-align: right;
 }
 
@@ -94,17 +94,17 @@ img, video, audio {
 .col-1 {
   float: left;
   width: 32%;
-  background: #ccc;
+  background: #337799;
 }
 
 .col-2 {
   float: left;
   width: 66%;
-  background: #ccc;
+  background: #337799;
 }
 
 .col-3 {
-  background: #ccc;
+  background: #337799;
 }
 
 [class*="col-"] {
