@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
-/* This 
-is 
+/* This
+is
 a comment! */
 
 /* CSS Syntax:
@@ -113,4 +113,8 @@ img, video, audio {
 
 .first {
   margin-left: 0%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0609b59198a3415e0d703b3071159de106bc6e70
